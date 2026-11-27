@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:102B52,100:1B4277&height=180&section=header&text=Kahfi%20Fauzan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Information%20Systems%20Graduate%20%7C%20IT%20Business%20Analyst%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Kahfi Fauzan header"/>
 
-<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/developer-cartoon.svg" alt="Navy cartoon illustration of a developer and business analyst" width="850"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-light.svg"/>
+  <img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-dark.svg" alt="Animated anime developer blinking and typing" width="850"/>
+</picture>
 
 ### Hi there, I'm Kahfi! 👋
 
@@ -56,8 +60,17 @@ I'm interested in **IT Business Analysis**, business processes, system requireme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&show_icons=true&theme=github_dark&title_color=1E3A8A&icon_color=2563A6&text_color=AFC5E7&hide_border=true" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&layout=compact&theme=transparent&title_color=1E3A8A&text_color=AFC5E7&hide_border=true" height="160" alt="Most used GitHub languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&amp;show_icons=true&amp;theme=github_dark&amp;title_color=83B9FF&amp;icon_color=60A5FA&amp;text_color=D7E5FC&amp;bg_color=0D1117&amp;border_color=263D5F"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&amp;show_icons=true&amp;theme=default&amp;title_color=173B70&amp;icon_color=2563A6&amp;text_color=334155&amp;bg_color=FFFFFF&amp;border_color=D6E6FB"/>
+  <img height="165" alt="GitHub stats matching light and dark mode" src="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&amp;show_icons=true&amp;theme=default&amp;title_color=173B70&amp;icon_color=2563A6&amp;text_color=334155&amp;bg_color=FFFFFF&amp;border_color=D6E6FB"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&amp;layout=compact&amp;theme=github_dark&amp;title_color=83B9FF&amp;text_color=D7E5FC&amp;bg_color=0D1117&amp;border_color=263D5F"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&amp;layout=compact&amp;theme=default&amp;title_color=173B70&amp;text_color=334155&amp;bg_color=FFFFFF&amp;border_color=D6E6FB"/>
+  <img height="165" alt="Top languages matching light and dark mode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&amp;layout=compact&amp;theme=default&amp;title_color=173B70&amp;text_color=334155&amp;bg_color=FFFFFF&amp;border_color=D6E6FB"/>
+</picture>
 
 </div>
 
