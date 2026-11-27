@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/navy-header.svg" alt="Kahfi Fauzan Habibi — IT Business Analyst Enthusiast" width="100%" />
+<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/navy-header.svg" alt="Kahfi Fauzan Habibi — IT Business Analysis and Software Development" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-dark.svg" />
@@ -13,7 +13,7 @@
 **Information Systems Graduate · Telkom University, 2026**  
 **GPA 3.61 / 4.00 · BNSP Certified in Enterprise Architecture**
 
-Building the bridge between **business needs**, **clear processes**, and **digital solutions**.
+Interested in **IT Business Analysis**, **Software Development**, and **Software Engineering** — connecting business needs with practical technology solutions.
 
 [![Explore Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-143B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KahfiFauzan?tab=repositories)
 [![Contact](https://img.shields.io/badge/CONTACT_ME-1D4F8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzankahfi28@gmail.com)
@@ -24,11 +24,11 @@ Building the bridge between **business needs**, **clear processes**, and **digit
 
 ### About Me & Career Direction
 
-I'm an **Information Systems graduate** with an interest in **IT Business Analysis**, Enterprise Architecture, and system development. I enjoy understanding business problems, organizing requirements, and exploring practical technology solutions.
+I'm an **Information Systems graduate** passionate about **IT Business Analysis**, **Software Development**, and **Software Engineering**. My GitHub projects reflect hands-on exploration of backend microservices, Telegram automation, web applications, and mobile development. I enjoy translating business problems into clear requirements and building practical software solutions.
 
-- **Career focus:** IT Business Analyst · Business Process · Enterprise Architecture
-- **Technical interests:** Web development · API integration · Mobile apps · Databases
-- **Currently learning:** Flutter and modern development workflows
+- **Career interests:** IT Business Analyst · Software Developer · Software Engineer
+- **Technical interests:** Backend Development · Web Development · API Integration · Mobile Applications
+- **Additional interests:** Enterprise Architecture · Business Process Improvement · Flutter
 
 ### Technical Toolkit
 
@@ -100,7 +100,7 @@ I'm an **Information Systems graduate** with an interest in **IT Business Analys
 
 <div align="center">
 
-**Open to opportunities in IT Business Analysis and related technology roles.**
+**Interested in opportunities in IT Business Analysis, Software Development, and Software Engineering.**
 
 [**Email me**](mailto:fauzankahfi28@gmail.com) · [**GitHub Projects**](https://github.com/KahfiFauzan?tab=repositories)
 
