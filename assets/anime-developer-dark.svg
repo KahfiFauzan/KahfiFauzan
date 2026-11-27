@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Animated anime developer blinking and typing at laptop">
+<style>
+.float{animation:float 3.4s ease-in-out infinite;transform-origin:660px 210px}.hair{animation:hair 3.4s ease-in-out infinite;transform-origin:650px 96px}.eye{animation:blink 5.2s infinite;transform-origin:center}.hand{animation:type .26s ease-in-out infinite alternate;transform-origin:670px 239px}.code{animation:code 1.3s steps(4) infinite}.spark{animation:spark 2s ease-in-out infinite alternate}.bar{animation:bar 2.8s ease-in-out infinite alternate;transform-origin:0 100%}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes hair{0%,100%{transform:rotate(-1deg)}50%{transform:rotate(2deg)}}@keyframes blink{0%,45%,50%,100%{transform:scaleY(1)}47%{transform:scaleY(.08)}}@keyframes type{to{transform:translateY(5px) rotate(3deg)}}@keyframes code{0%{opacity:.3}50%{opacity:1}100%{opacity:.5}}@keyframes spark{to{opacity:.2;transform:translateY(-8px)}}@keyframes bar{to{transform:scaleY(.65)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="900" height="330" rx="20" fill="#081426"/>
+<rect x="21" y="24" width="400" height="281" rx="17" fill="#102B4B" stroke="#4077B5" opacity=".85"/>
+<circle cx="655" cy="160" r="126" fill="#57C7FF" opacity=".08"/><circle cx="655" cy="160" r="100" fill="none" stroke="#4077B5" stroke-width="2" stroke-dasharray="7 13"/>
+<g font-family="Arial,sans-serif" fill="#D6E8FF"><text x="51" y="75" font-size="25" font-weight="bold">Hi, I'm Kahfi!</text><text x="51" y="106" font-size="16">Business Analysis x Technology</text><text x="51" y="151" font-size="14" opacity=".85">requirements  •  process  •  solutions</text></g>
+<rect x="51" y="182" width="337" height="93" rx="9" fill="#081426" stroke="#4077B5"/>
+<g fill="#57C7FF" opacity=".75"><rect x="73" y="235" width="34" height="24" rx="4" class="bar"/><rect x="118" y="219" width="34" height="40" rx="4" class="bar"/><rect x="163" y="205" width="34" height="54" rx="4" class="bar"/><rect x="208" y="223" width="34" height="36" rx="4" class="bar"/><rect x="253" y="197" width="34" height="62" rx="4" class="bar"/></g><polyline points="72,221 112,207 150,220 198,187 244,205 289,180 350,193" stroke="#57C7FF" stroke-width="3" fill="none"/>
+<g class="float">
+<path d="M560 266 Q572 194 648 192 Q736 191 748 268 L769 308 H535Z" fill="#25558D"/>
+<path d="M609 123 Q600 79 641 63 Q693 39 720 79 Q738 99 720 154 L703 178 L630 177Z" fill="#F0B69D"/>
+<g class="hair"><path d="M605 128 Q597 71 634 65 Q652 40 674 54 Q705 39 728 77 Q744 98 723 129 L717 104 Q690 106 678 92 Q643 116 614 104Z" fill="#151C37"/><path d="M625 80 Q647 50 679 67 Q662 64 646 94" fill="#343A63"/></g>
+<g class="eye" stroke="#172137" stroke-width="4" stroke-linecap="round"><path d="M633 134 l9 0"/><path d="M688 134 l9 0"/></g><path d="M655 158 Q671 169 684 157" stroke="#B66E66" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M622 197 L666 224 L707 194 L727 291 H604Z" fill="#12294D"/>
+<path d="M558 264 Q593 240 622 253 L618 309 H536Z M706 256 Q747 241 766 271 L775 309 H730Z" fill="#376CA5"/>
+<g class="hand"><path d="M680 234 Q694 216 716 233 L730 263 L690 268Z" fill="#F0B69D"/></g>
+</g>
+<g><rect x="553" y="235" width="233" height="72" rx="8" fill="#0D2340" stroke="#4077B5" stroke-width="3"/><text x="618" y="280" font-size="25" font-family="monospace" fill="#57C7FF" class="code">&lt;code /&gt;</text><path d="M540 308 H798" stroke="#4077B5" stroke-width="8" stroke-linecap="round"/></g>
+<g class="spark" fill="#57C7FF"><circle cx="807" cy="93" r="4"/><circle cx="826" cy="124" r="2.8"/><circle cx="528" cy="96" r="4"/></g>
+</svg>
