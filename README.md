@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:102B52,100:1B4277&height=180&section=header&text=Kahfi%20Fauzan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Information%20Systems%20Graduate%20%7C%20IT%20Business%20Analyst%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Kahfi Fauzan header"/>
+<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/navy-header.svg" width="100%" alt="Kahfi Fauzan Habibi - dark navy GitHub profile header"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-dark.svg"/>
@@ -95,6 +95,6 @@ I'm interested in **IT Business Analysis**, business processes, system requireme
 **Let's connect and build something meaningful!**  
 📧 **fauzankahfi28@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4277,100:050B18&height=100&section=footer" width="100%" alt="Blue footer"/>
+<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/navy-footer.svg" width="100%" alt="Dark navy footer"/>
 
 </div>
