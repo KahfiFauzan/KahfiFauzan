@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285">
+<defs><linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".55" stop-color="#0C2647"/><stop offset="1" stop-color="#153B69"/></linearGradient><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#2D5F97" stroke-width="1" opacity=".27"/></pattern></defs>
+<rect width="1200" height="285" rx="16" fill="url(#navy)"/><rect width="1200" height="285" rx="16" fill="url(#grid)"/>
+<circle cx="1110" cy="60" r="175" fill="#1E5792" opacity=".18"/><circle cx="90" cy="240" r="130" fill="#256AAE" opacity=".12"/>
+<path d="M0 230 Q360 184 660 233 T1200 223" fill="none" stroke="#3A77AF" stroke-width="2" opacity=".55"/>
+<rect x="40" y="37" width="205" height="31" rx="15" fill="#174776" stroke="#3B79AD"/><text x="142" y="58" font-size="15" fill="#D0E8FF" font-family="Arial,sans-serif" text-anchor="middle" letter-spacing="1">PORTFOLIO / GITHUB</text>
+<text x="600" y="143" font-size="67" font-weight="bold" text-anchor="middle" fill="#F1F7FF" font-family="Arial,sans-serif">Kahfi Fauzan</text>
+<text x="600" y="184" font-size="24" text-anchor="middle" fill="#B9D8F6" font-family="Arial,sans-serif">Information Systems Graduate  •  IT Business Analyst Enthusiast</text>
+<rect x="468" y="209" width="264" height="3" rx="2" fill="#57B9FF"/>
+</svg>
