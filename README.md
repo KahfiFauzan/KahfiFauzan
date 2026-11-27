@@ -2,6 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/navy-header.svg" alt="Kahfi Fauzan Habibi — IT Business Analyst Enthusiast" width="100%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-light.svg" />
+  <img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-dark.svg" width="100%" alt="Animated developer illustration" />
+</picture>
+
 <br/>
 
 **Information Systems Graduate · Telkom University, 2026**  
@@ -26,12 +32,7 @@ I'm an **Information Systems graduate** with an interest in **IT Business Analys
 
 ### Technical Toolkit
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=KahfiFauzan&amp;theme=github-dark&amp;mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=KahfiFauzan&amp;theme=github-dark" width="100%" alt="Technical stack overview" />
-  </picture>
-</p>
+
 
 
 <div align="center">
@@ -65,13 +66,20 @@ I'm an **Information Systems graduate** with an interest in **IT Business Analys
 
 </div>
 
-### GitHub Overview
+### GitHub Statistics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=KahfiFauzan&amp;theme=github-dark&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=KahfiFauzan&amp;theme=github-dark" width="100%" alt="GitHub activity and statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&amp;show_icons=true&amp;bg_color=0F2747&amp;title_color=9DCBFF&amp;text_color=EAF4FF&amp;icon_color=5FA8FF&amp;border_color=285480" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&amp;show_icons=true&amp;bg_color=EAF4FF&amp;title_color=143B6B&amp;text_color=214261&amp;icon_color=1D4F8C&amp;border_color=C2D9F2" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&amp;show_icons=true&amp;bg_color=0F2747&amp;title_color=9DCBFF&amp;text_color=EAF4FF&amp;icon_color=5FA8FF&amp;border_color=285480" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&amp;layout=compact&amp;bg_color=0F2747&amp;title_color=9DCBFF&amp;text_color=EAF4FF&amp;border_color=285480" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&amp;layout=compact&amp;bg_color=EAF4FF&amp;title_color=143B6B&amp;text_color=214261&amp;border_color=C2D9F2" />
+  <img height="170" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&amp;layout=compact&amp;bg_color=0F2747&amp;title_color=9DCBFF&amp;text_color=EAF4FF&amp;border_color=285480" />
 </picture>
 
 </div>
