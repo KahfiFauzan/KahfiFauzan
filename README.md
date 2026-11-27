@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B5ED7,100:67B7FF&height=180&section=header&text=Kahfi%20Fauzan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Information%20Systems%20Graduate%20%7C%20IT%20Business%20Analyst%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Kahfi Fauzan header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:102B52,100:1B4277&height=180&section=header&text=Kahfi%20Fauzan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Information%20Systems%20Graduate%20%7C%20IT%20Business%20Analyst%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Kahfi Fauzan header"/>
+
+<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/developer-cartoon.svg" alt="Navy cartoon illustration of a developer and business analyst" width="850"/>
 
 ### Hi there, I'm Kahfi! 👋
 
@@ -9,8 +11,8 @@
 
 I'm interested in **IT Business Analysis**, business processes, system requirements, and building technology solutions that solve real problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20projects-0B5ED7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KahfiFauzan?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-318CE7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzankahfi28@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20projects-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KahfiFauzan?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-2563A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzankahfi28@gmail.com)
 
 </div>
 
@@ -28,15 +30,15 @@ I'm interested in **IT Business Analysis**, business processes, system requireme
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0B5ED7?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1877D2?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-0B5ED7?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-54A9FF?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-168ED0?style=flat-square&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2463AA?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E3A8A?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20487B?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-254C79?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-1E3A8A?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-265B9A?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-1D508A?style=flat-square&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E3A70?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1E3A70?style=flat-square&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1E426D?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -46,7 +48,7 @@ I'm interested in **IT Business Analysis**, business processes, system requireme
 | :--- | :--- | :--- |
 | [**BotKML**](https://github.com/KahfiFauzan/BotKML) | Telegram bot for infrastructure mapping, location data, and generating map images and KML outputs. | Node.js, Telegram API |
 | [**ListNote**](https://github.com/KahfiFauzan/ListNote) | A personal notes / list application built while learning Flutter. | Flutter, Dart |
-| [**Project-IAE**](https://github.com/KahfiFauzan/Project-IAE) | Information Systems project repository. | Project work |
+| [**Project-IAE (TicketMaster)**](https://github.com/KahfiFauzan/Project-IAE) | Transport ticket booking and management system with Python microservices, a GraphQL gateway, and Docker deployment. | Python, Flask, GraphQL, Docker |
 
 > More work is available in my [GitHub repositories](https://github.com/KahfiFauzan?tab=repositories).
 
@@ -54,8 +56,8 @@ I'm interested in **IT Business Analysis**, business processes, system requireme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&show_icons=true&theme=transparent&title_color=0B5ED7&icon_color=318CE7&text_color=64748B&hide_border=true" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&layout=compact&theme=transparent&title_color=0B5ED7&text_color=64748B&hide_border=true" height="160" alt="Most used GitHub languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KahfiFauzan&show_icons=true&theme=github_dark&title_color=1E3A8A&icon_color=2563A6&text_color=AFC5E7&hide_border=true" height="160" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahfiFauzan&layout=compact&theme=transparent&title_color=1E3A8A&text_color=AFC5E7&hide_border=true" height="160" alt="Most used GitHub languages"/>
 
 </div>
 
@@ -80,6 +82,6 @@ I'm interested in **IT Business Analysis**, business processes, system requireme
 **Let's connect and build something meaningful!**  
 📧 **fauzankahfi28@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67B7FF,100:0B5ED7&height=100&section=footer" width="100%" alt="Blue footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4277,100:050B18&height=100&section=footer" width="100%" alt="Blue footer"/>
 
 </div>
