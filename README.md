@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/navy-header.svg" alt="Kahfi Fauzan Habibi — IT Business Analysis and Software Development" width="100%" />
+<img src="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/navy-header-careers.svg" alt="Kahfi Fauzan Habibi — IT Business Analysis and Software Development" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KahfiFauzan/KahfiFauzan/main/assets/anime-developer-dark.svg" />
